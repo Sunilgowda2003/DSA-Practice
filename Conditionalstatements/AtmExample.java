@@ -2,7 +2,7 @@ package Conditionalstatements;
 
 public class AtmExample {
     public static void main(String[] args) {
-        int balance=10000;//changw value To check the conditions 
+        int balance=10000;//change value To check the conditions 
 
         int pin=1234;
 
