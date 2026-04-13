@@ -6,11 +6,11 @@ public class Xpattern {
         System.out.println("X Pattern...");
 
         int n = 5;
-
+        //rows
         for(int i = 1;i <= n; i++){
-
+            //columns
             for(int j = 1;j <= n; j++){
-               
+                // print star at diagonals
                 if(i == j || i + j == n + 1){
                     System.out.print("* ");
                 }else{
@@ -18,7 +18,7 @@ public class Xpattern {
                 }
                 
             }
-            System.out.println();
+            System.out.println();//next line
 
         }
     }
