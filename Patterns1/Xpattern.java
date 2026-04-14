@@ -1,4 +1,4 @@
-package Additionalstarpatterns;
+
 
 public class Xpattern {
     public static void main(String[] args) {

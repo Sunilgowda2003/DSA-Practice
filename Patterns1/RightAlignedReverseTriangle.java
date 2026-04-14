@@ -1,4 +1,4 @@
-package Additionalstarpatterns;
+
 
 public class RightAlignedReverseTriangle {
 

@@ -1,4 +1,3 @@
-package Additionalstarpatterns;
 
 public class CenterStepPatterns {
     public static void main(String[] args) {

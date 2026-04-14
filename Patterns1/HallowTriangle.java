@@ -1,4 +1,4 @@
-package Additionalstarpatterns;
+
 
 public class HallowTriangle {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Additionalstarpatterns;
+
 
 public class RightAlignedPyramid {
     public static void main(String[] args) {
