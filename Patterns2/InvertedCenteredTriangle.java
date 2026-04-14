@@ -5,6 +5,7 @@ public class InvertedCenteredTriangle {
         System.out.println("Inverted Centered Triangle...");
 
         int n = 5;
+        
         for(int i = n; i >= 1; i--) {
 
             // spaces
