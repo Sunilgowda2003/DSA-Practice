@@ -4,7 +4,7 @@ public class ReverseFloydTriangle {
     public static void main(String[] args) {
         System.out.println("Reverse Floyd Triangle...");
 
-        inrt n = 5;
+        int n = 5;
         int num = n * (n + 1) / 2; // total numbers
 
         for(int i = n;i >= 1; i--){
