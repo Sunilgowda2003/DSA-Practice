@@ -4,7 +4,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 
 ---
 
-## 📌 Topics Covered
+## 📌 Topics Covered 
 
 * Basics
 * Patterns
