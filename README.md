@@ -5,7 +5,7 @@ This repository contains my daily practice of **Data Structures and Algorithms (
 ---
 
 ## 📌 Topics Covered
-
+ 
 * Basics 
 * Patterns 
 * Conditional Statements
